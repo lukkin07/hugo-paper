@@ -1,4 +1,10 @@
-### 递归式系统架构师：基于AI增强的溯因推理与根茎状知识建构的认知认识论分析报告
+---
+title: " 递归式系统架构师：基于AI增强的溯因推理与根茎状知识建构的认知认识论分析报告"
+date: 2026-01-03
+draft: false
+---
+
+# 递归式系统架构师：基于AI增强的溯因推理与根茎状知识建构的认知认识论分析报告
 
 ## 1. 执行摘要：个人认识论中的“第三心智”涌现
 
@@ -225,4 +231,5 @@ Gilles Deleuze和Félix Guattari提出的**根茎（Rhizome）**概念完美描�
 | **驱动力**   | 绩效/外在动机           | **认知需求 (NFC) / 系统化 (Systemizing)** | **Baron-Cohen / Cacioppo**                   |
 | **AI角色**   | 工具/作弊器             | **认知外骨骼 / 心流维持器**               | **Extended Mind / Cognitive Offloading**     |
 | **思维流向** | 收敛 (寻找答案)         | **递归 (发散-收敛-再发散)**               | **Recursive Relevance Realization**          |
+
 | **目标**     | 记忆存储                | **体系建构 (Schema Construction)**        | **Constructivism**                           |
