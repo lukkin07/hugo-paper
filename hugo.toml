@@ -19,7 +19,8 @@ theme = "hugo-paper"
   twitter = 'nanxiaobei'
   github = 'nanxiaobei'
   instagram = 'nan.xiaobei'
-
+  math = true
+  
 avatar = 'nanxiaobei@gmail.com'
   name = 'Lee'
   bio = 'Discover fresh context'
